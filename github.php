@@ -1,2 +1,5 @@
-<?php `git pull`;
+<?php `git pull`; ?>
+
+<?php
+echo "this is a test";
 ?>
